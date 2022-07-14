@@ -7,7 +7,7 @@ The purpose of this project was to provide a more in-depth analysis of UFO sight
 ### Resources
 Data Environment :&nbsp;  [HTML](https://www.w3schools.com/html/default.asp),&nbsp; [JavaScript](https://www.w3schools.com/js/default.asp),&nbsp; [Bootstrap Components](https://getbootstrap.com/docs/4.0/getting-started/introduction/),&nbsp; [JavaScript D3 Library](https://d3js.org/)
 <br/>
-Data Source :&nbsp; [UFO Data](data.js) file
+Data Source :&nbsp; [UFO Data](data.js)
 <br/>
 
 ## Analysis
