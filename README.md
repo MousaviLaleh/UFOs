@@ -18,10 +18,12 @@ In order to display the data on the webpage :
 - Create a function to filter the table.
 - Create a filter area in the webpage, using Bootstrap form component.
 - Style the webpage using Bootstrap and CSS stylings.
-- Tie the js code to html page.
+- Tie the js code to the html page.
 <br/>
+
 Initial look of the webpage : 
 <br/>
+
 ![01.png](static/images/01.png)
 
 The filters help user to have a faster and neat search into the table.
