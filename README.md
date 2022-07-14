@@ -21,7 +21,7 @@ In order to display the data on the webpage :
 - Tie the js code to the html page.
 <br/>
 
-Initial look of the webpage : 
+Visit the [webpage](https://mousavilaleh.github.io/UFOs-Finder/) : 
 <br/>
 
 ![01.png](/images/01.png)
