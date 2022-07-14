@@ -5,21 +5,39 @@ Using JavaScript and it's visual functionality to build a dynamic webpage and ma
 The purpose of this project was to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time, in addition to the date. We will add table filters for the city, state, country, and shape.
 
 ### Resources
-Data Environment :&nbsp;  [HTML](https://www.w3schools.com/html/default.asp),&nbsp; [JavaScript](https://www.w3schools.com/js/default.asp),&nbsp; [Bootstrap Component](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+Data Environment :&nbsp;  [HTML](https://www.w3schools.com/html/default.asp),&nbsp; [JavaScript](https://www.w3schools.com/js/default.asp),&nbsp; [Bootstrap Components](https://getbootstrap.com/docs/4.0/getting-started/introduction/),&nbsp; [JavaScript D3 Library](https://d3js.org/)
 <br/>
-Data Source :&nbsp; [UFO Data](./static/js/data.js) file
+Data Source :&nbsp; [UFO Data](/static/js/data.js) file
 <br/>
 
 ## Analysis
-The purpose is well defined. (2 pt)
+In order to display the data on the webpage :
+- Import the data into a JavaScript table Object.
+- Loop through each object and append a row and cells for each value.
+- Create a variable to keep track of all the filters as an object in the js code.
+- Create a function to filter the table.
+- Create a filter area in the webpage, using Bootstrap form component.
+- Style the webpage using Bootstrap and CSS stylings.
+- Tie the js code to html page.
+<br/>
+Initial look of the webpage : 
+<br/>
+![01.png](static/images/01.png)
+
+The filters help user to have a faster and neat search into the table.
+<br/>
+![02.png](static/images/02.png)
+<br/>
+![03.png](static/images/03.png)
+<br/>
 
 ## Results
 There is a description of how to perform a search, with images. (4 pt)
 
 
 ## Summary
-The summary addresses one drawback of this webpage (2 pt)
-The summary addresses two additional recommendations for further development (4 pt)
-
+One drawback of this design is the difficulty for the user to know what parameter to use for the filtering. For example to pick a city, the user would have to go through the table a find the city desired for the analysis, or the "shape" field; those who are unfamiliar with UFO sightings may not know that "light" is considered a shape for UFOs.<br/>
+Another drawback is that Javascript language is case sensitive. This can impact the user experience because all of the searchable data is lowercase. For example, if a user were to enter "CA" to identify the UFO sightings in California, the filter search results are zero. Whereas, if they were to enter "ca" in lowercase, there are plenty of results.<br/>
+Including two buttons to confirm the filter and clear the filters is also needed. The buttons would be located below the last filter.
 
 <br/>
