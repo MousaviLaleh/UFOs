@@ -26,7 +26,7 @@ Initial look of the webpage :
 
 ![01.png](static/images/01.png)
 
-Filters help user to have a faster and neat search into the table.
+Filters help user to have a faster and neat search in the table.
 <br/>
 
 ![02.png](static/images/02.png)
