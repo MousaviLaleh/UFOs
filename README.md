@@ -28,13 +28,13 @@ Initial look of the webpage :
 
 The filters help user to have a faster and neat search into the table.
 <br/>
+
 ![02.png](static/images/02.png)
 <br/>
+
 ![03.png](static/images/03.png)
 <br/>
 
-## Results
-There is a description of how to perform a search, with images. (4 pt)
 
 
 ## Summary
