@@ -3,6 +3,8 @@ Using JavaScript visual functionality to build a dynamic webpage and manipulate 
 
 ## Overview of Project
 The purpose of this project was to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time, in addition to the date. We will add table filters for the city, state, country, and shape.
+<br/>
+visit the website : https://mousavilaleh.github.io/UFOs-Finder/
 
 ### Resources
 Data Environment :&nbsp; [JavaScript](https://www.w3schools.com/js/default.asp),&nbsp; [JavaScript D3 Library](https://d3js.org/),&nbsp; [HTML](https://www.w3schools.com/html/default.asp),&nbsp; [Bootstrap v5.0](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
@@ -10,9 +12,6 @@ Data Environment :&nbsp; [JavaScript](https://www.w3schools.com/js/default.asp),
 Data Source :&nbsp; [UFO Data](data.js)
 <br/>
 
-visit the website : https://mousavilaleh.github.io/UFOs-Finder/
-
-<br/>
 
 ## Analysis
 In order to display the data on the webpage :
