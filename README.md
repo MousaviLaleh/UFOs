@@ -2,7 +2,8 @@
 Using JavaScript visual functionality to build a dynamic webpage and manipulate the data by adding filters.
 
 ## Overview of Project
-The purpose of this project was to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time, in addition to the date. We will add table filters for the city, state, country, and shape.
+This project focuses on building a dynamic webpage that accepts user inputs and adjusts accordingly to display information about UFO sightings. <br/>
+In order to perform their analysis, users will be able to filter the UFO sightings table based on multiple criteria such as the event date, city, state, country and shape.
 <br/>
 
 ### Link to webpage
