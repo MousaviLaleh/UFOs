@@ -1,5 +1,5 @@
 # UFOs
-Using JavaScript visual functionality to build a dynamic webpage and manipulate the data by adding filters.
+
 
 ## Overview of Project
 This project focuses on building a dynamic webpage that accepts user inputs and adjusts accordingly to display information about UFO sightings. <br/>
